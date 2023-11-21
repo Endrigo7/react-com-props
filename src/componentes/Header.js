@@ -1,6 +1,6 @@
 const Header = () => {
     return(
-        <div>
+        <div className="App-header">
             <h1>React Com Props</h1>
         </div>
     );
